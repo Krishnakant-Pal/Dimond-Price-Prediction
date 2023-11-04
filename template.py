@@ -18,6 +18,8 @@ list_of_files=[
     f"src/{package_name}/utils/__init__.py",
     f"src/{package_name}/utils/utils.py",
     "notebooks/research.ipynb",
+    "notebooks/model.ipynb",
+    "notebooks/eda.ipynb",
     "notebooks/data/.gitkeep",
     "templates/base.html",
     "static/index.css",
