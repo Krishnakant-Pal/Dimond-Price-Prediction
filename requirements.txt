@@ -4,3 +4,5 @@ Pandas
 matplotlib
 Seaborn
 scikit-learn
+
+-e .
